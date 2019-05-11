@@ -10,15 +10,15 @@ There are directly measurable metrics that come with each proposal that can be u
 ## Accompanying Files:
 
 ### Effect of varying Reputation
-![Varying Reputation](https://raw.githubusercontent.com/Tomasvrba/DAO-bond-model-files/master/VaryingReputation.png?token=ADLDUDLWZZNV4O34EER7OJS422XCO)
+![Varying Reputation](https://github.com/Tomasvrba/DAO-bond-model-files/blob/master/VaryingReputation.png)
 
 ### (Effects of varying Supply and Demand against Reputation
-![Varying supply and demand](https://raw.githubusercontent.com/Tomasvrba/DAO-bond-model-files/master/VaryingOmega.png?token=ADLDUDJXXEVQGN5KHYBYX72422XKC)
+![Varying supply and demand](https://github.com/Tomasvrba/DAO-bond-model-files/blob/master/VaryingOmega.png)
 
 ### Effects of varying Requested Funding
-![Varying requested funding](https://raw.githubusercontent.com/Tomasvrba/DAO-bond-model-files/master/VaryingRequestedFunding.png?token=ADLDUDKUFSM6JGE3RDUCHRS422XMI)
+![Varying requested funding](https://github.com/Tomasvrba/DAO-bond-model-files/blob/master/VaryingRequestedFunding.png)
 
 ### Fixed Supply of funding
-![Fixed supply](https://raw.githubusercontent.com/Tomasvrba/DAO-bond-model-files/master/FixedSupply.png?token=ADLDUDJ7JNDRZQ2SOQPRWVK422X22)
+![Fixed supply](https://github.com/Tomasvrba/DAO-bond-model-files/blob/master/FixedSupply.png)
 
 https://ethresear.ch/t/dynamic-proposal-filtering-bond-model-for-daos/1983
