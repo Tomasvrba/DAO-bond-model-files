@@ -18,7 +18,7 @@ There are directly measurable metrics that come with each proposal that can be u
 ### Effects of varying Requested Funding
 ![Varying requested funding](https://raw.githubusercontent.com/Tomasvrba/DAO-bond-model-files/master/VaryingRequestedFunding.png?token=ADLDUDKUFSM6JGE3RDUCHRS422XMI)
 
-### Fixed Supply of funding:
-![Fixed supply](https://raw.githubusercontent.com/Tomasvrba/DAO-bond-model-files/master/FixedSupply.png?token=ADLDUDLBLEVL2B22XSAWQ42422WUA)
+### Fixed Supply of funding
+![Fixed supply](https://raw.githubusercontent.com/Tomasvrba/DAO-bond-model-files/master/FixedSupply.png?token=ADLDUDJ7JNDRZQ2SOQPRWVK422X22)
 
-
+https://ethresear.ch/t/dynamic-proposal-filtering-bond-model-for-daos/1983
